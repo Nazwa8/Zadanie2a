@@ -19,6 +19,7 @@ public class MainActivity extends AppCompatActivity {
         setContentView(R.layout.activity_main);
 
         //powiązanie widoków z kodem
+        //dupadupadupa2018
         editTextName = findViewById(R.id.editTextName);
         editTextEmail = findViewById(R.id.editTextEmail);
         buttonSubmit = findViewById(R.id.buttonSubmit);
